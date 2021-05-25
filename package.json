@@ -78,36 +78,16 @@
   "license": "BSD-3-Clause",
   "maintainers": [
     {
-      "email": "bruna.andjelic@gmail.com",
-      "name": "bAndelic"
+      "email": "maja@shoutem.com",
+      "name": "majaklajic"
     },
     {
-      "email": "belma.dzi@gmail.com",
-      "name": "morrigan"
-    },
-    {
-      "email": "luka.bracanovic@shoutem.com",
-      "name": "MrBr"
-    },
-    {
-      "email": "ivan@shoutem.com",
-      "name": "SoHotSoup"
-    },
-    {
-      "email": "tomislav.tenodi@shoutem.com",
-      "name": "tenodi"
-    },
-    {
-      "email": "vladimir@shoutem.com",
-      "name": "Vunovati"
+      "email": "tomislav.arambasic@shoutem.com",
+      "name": "tomislav-arambasic"
     },
     {
       "email": "vlad@definitely-not-vlad.com",
       "name": "Definitely-Not-Vlad"
-    },
-    {
-      "email": "zeljko@shoutem.com",
-      "name": "zrumenjak"
     }
   ],
   "eslintConfig": {
