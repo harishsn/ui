@@ -65,7 +65,6 @@
   "nativeDependencies": [
     "@react-native-community/datetimepicker",
     "react-native-linear-gradient",
-    "react-native-photo-view",
     "react-native-svg",
     "react-native-vector-icons",
     "react-native-webview"
